@@ -1,0 +1,11 @@
+
+
+Fabrication Methods: Milling
+Material: Softwood
+Cut depth：8mm
+Tool：spindle， diameter：12mm   2 Blades
+D= 12
+z=2
+spindle feed: Vf= 5000
+spindle speed: n = 5000/(0.222*2)= 11261 ≈11300 rpm
+processing time：4.7min
